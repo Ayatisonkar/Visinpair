@@ -1,4 +1,4 @@
-# Virtual Eye - A Blind Aid
+# Visinpair
 It's an Android Application to help Visually impaired people.
 
 ## Features:
