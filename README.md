@@ -1,18 +1,18 @@
 # Visinpair
 It's an Android Application to help Visually impaired people.
-##Description of the problem
 Visually Impaired are those people who have vision impairment or vision loss.
 Problems faced by visually impaired in performing daily activities are in great
 number. They also face a lot of difficulties in monetary transactions. They are
 unable to recognize the paper currencies due to similarity of paper texture and
-size between different categories. This money detector app helps visually
-impaired patients to recognize and detect money. Using this application blind
-people can speak and give command to open camera of a smartphone and
-camera will click picture of the note and tell the user by speech how much the
-money note is. This Android project uses speech to text conversion to convert the
+size between different categories and face problem in reading the text as well. This app helps 
+visually impaired patients to recognize and detect money as well as read the text written in the objects
+if they want to know.Using this app the blind person can even translate the text,edit,save,copy and
+share the text.If the user is facing any problem then he can also refer to help where the app will
+read out how to use the app using TexttoSpeech recognition.In the Settings the user can even change OCR language,
+Use Flash and autoFocus.This Android project uses speech to text conversion to convert the
 command given by the blind patient. Speech Recognition is a technology that
 allows users to provide spoken input into the systems. This android application
-uses text to speech concept to read the value of note to the user and then it
+uses text to speech concept to read the content and then it
 converts the text value into speech.
 ## Requirements
 
