@@ -1,5 +1,5 @@
 # Visinpair
-It's an Android Application to help Visually impaired people.
+It's an Android Application to help the Visually impaired people.
 Visually Impaired are those people who have vision impairment or vision loss.
 Problems faced by visually impaired in performing daily activities are in great
 number. They also face a lot of difficulties in  monetary transactions. They are
